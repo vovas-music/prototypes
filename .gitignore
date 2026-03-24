@@ -3,3 +3,4 @@
 /Media/peaks
 *.reapeaks
 *.rpp-bak
+.DS_Store
